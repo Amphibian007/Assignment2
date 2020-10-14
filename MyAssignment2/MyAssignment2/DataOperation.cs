@@ -6,7 +6,7 @@ using System.Reflection;
 
 namespace MyAssignment2
 {
-    public class DataOperation<T>
+    public class DataOperation<T> where T:Entity
     {
         private readonly string _connectionString;
 
