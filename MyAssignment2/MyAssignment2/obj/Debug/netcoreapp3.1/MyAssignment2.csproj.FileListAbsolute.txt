@@ -1,0 +1,4 @@
+F:\Assignment2\MyAssignment2\MyAssignment2\bin\Debug\netcoreapp3.1\MyAssignment2.exe
+F:\Assignment2\MyAssignment2\MyAssignment2\obj\Debug\netcoreapp3.1\MyAssignment2.csprojAssemblyReference.cache
+F:\Assignment2\MyAssignment2\MyAssignment2\obj\Debug\netcoreapp3.1\MyAssignment2.AssemblyInfoInputs.cache
+F:\Assignment2\MyAssignment2\MyAssignment2\obj\Debug\netcoreapp3.1\MyAssignment2.AssemblyInfo.cs
